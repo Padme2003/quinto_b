@@ -36,4 +36,4 @@ jobs:
       uses: docker/build-push-action@v6
       with:
         push: true
-        tags: ghcr.io/Padme2003/quinto_b:1.0.1
+        tags: ghcr.io/padme2003/quinto_b:1.0.1
